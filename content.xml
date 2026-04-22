@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260422121857UMM3JF</value>
+    <value>20260422123213MOQQ0F</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260422121857M3S72Q</value>
+    <value>20260422123213MJQ4B8</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776851026278</value>
+    <value>1776857475558</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo9v82ff-p51kgv8ev</odePageId>
+  <odePageId>page-mo9z2ap7-7g4r9lcof</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -131,7 +131,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fg-3ndqel6m1</odePageId>
+  <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1.Portada</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -167,7 +167,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fg-3ndqel6m1</odePageId>
+      <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
       <odeBlockId>block-1776247675916-rfd9elzd6</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -196,7 +196,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fg-3ndqel6m1</odePageId>
+          <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
           <odeBlockId>block-1776247675916-rfd9elzd6</odeBlockId>
           <odeIdeviceId>idevice-1776247675913-4pl9w5uit</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -229,7 +229,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fi-6vx8gcnxw</odePageId>
+  <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Presentación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -265,7 +265,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fi-6vx8gcnxw</odePageId>
+      <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
       <odeBlockId>block-1776248403681-2wkbimgt3</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -294,7 +294,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fi-6vx8gcnxw</odePageId>
+          <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
           <odeBlockId>block-1776248403681-2wkbimgt3</odeBlockId>
           <odeIdeviceId>idevice-1776248403679-3lttae3is</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -326,7 +326,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fi-9dpxksd7n</odePageId>
+  <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -362,7 +362,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fi-9dpxksd7n</odePageId>
+      <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
       <odeBlockId>block-1776249209697-i6f7j9ly4</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -391,7 +391,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fi-9dpxksd7n</odePageId>
+          <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
           <odeBlockId>block-1776249209697-i6f7j9ly4</odeBlockId>
           <odeIdeviceId>idevice-1776249209693-tyt8v471y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -423,7 +423,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fj-8uanmj5j7</odePageId>
+  <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -459,7 +459,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fj-8uanmj5j7</odePageId>
+      <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
       <odeBlockId>block-1776250421315-94wjatntt</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -488,7 +488,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fj-8uanmj5j7</odePageId>
+          <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
           <odeBlockId>block-1776250421315-94wjatntt</odeBlockId>
           <odeIdeviceId>idevice-1776250421312-sy5v90gv0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -517,7 +517,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo9v82fj-8uanmj5j7</odePageId>
+      <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
       <odeBlockId>block-1776250593415-39teccs6y</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -546,7 +546,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fj-8uanmj5j7</odePageId>
+          <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
           <odeBlockId>block-1776250593415-39teccs6y</odeBlockId>
           <odeIdeviceId>idevice-1776250593412-r6qhbxt0r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -575,7 +575,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fj-x5hk2fz7o</odePageId>
+  <odePageId>page-mo9z2apc-wf958xloz</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos alumnado</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -611,7 +611,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fj-x5hk2fz7o</odePageId>
+      <odePageId>page-mo9z2apc-wf958xloz</odePageId>
       <odeBlockId>block-1776250762614-e5snunezi</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -640,7 +640,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fj-x5hk2fz7o</odePageId>
+          <odePageId>page-mo9z2apc-wf958xloz</odePageId>
           <odeBlockId>block-1776250762614-e5snunezi</odeBlockId>
           <odeIdeviceId>idevice-1776250762612-x7rubbum2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -670,7 +670,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fk-rmwmhlj4t</odePageId>
+  <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Recursos docentes</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -706,7 +706,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fk-rmwmhlj4t</odePageId>
+      <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
       <odeBlockId>block-1776250804880-a5pja2c0i</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -735,7 +735,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fk-rmwmhlj4t</odePageId>
+          <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
           <odeBlockId>block-1776250804880-a5pja2c0i</odeBlockId>
           <odeIdeviceId>idevice-1776250804878-ygdwt8szz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -765,7 +765,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fk-do9qnf7i6</odePageId>
+  <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Uso responsable</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -801,7 +801,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fk-do9qnf7i6</odePageId>
+      <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
       <odeBlockId>block-1776250847946-gn12txgor</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -830,18 +830,18 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fk-do9qnf7i6</odePageId>
+          <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
           <odeBlockId>block-1776250847946-gn12txgor</odeBlockId>
           <odeIdeviceId>idevice-1776250847944-hs13mgj89</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>
 <p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>
-<p><a href="https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" title="">https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</a></p>
+<p><a href="https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="">https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>
 <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_ic92hiic92hiic92.png" width="864" height="1248" alt="" /></p>
 <p>Imagen creada por IA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250847944-hs13mgj89","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton\" title=\"\">https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton</a></p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ic92hiic92hiic92.png\" width=\"864\" height=\"1248\" alt=\"\" /></p>\n<p>Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250847944-hs13mgj89","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante utilizar las herramientas digitales de forma responsable, respetando la privacidad y evitando compartir datos personales.</p>\n<p>Debemos hacer un uso adecuado de los dispositivos y respetar el trabajo de los demás.</p>\n<p><a href=\"https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"\">https://www.canva.com/design/DAHD04T7soY/4PJFGhJXCeqTnLEH8dU-Gg/edit?utm_content=DAHD04T7soY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>\n<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_ic92hiic92hiic92.png\" width=\"864\" height=\"1248\" alt=\"\" /></p>\n<p>Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -863,7 +863,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fk-ezr5t5uxo</odePageId>
+  <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -899,7 +899,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fk-ezr5t5uxo</odePageId>
+      <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
       <odeBlockId>block-1776250918075-gvdaiesbz</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -928,7 +928,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fk-ezr5t5uxo</odePageId>
+          <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
           <odeBlockId>block-1776250918075-gvdaiesbz</odeBlockId>
           <odeIdeviceId>idevice-1776250918073-4m8l6ffs4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -958,7 +958,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fk-ibb10ba2o</odePageId>
+  <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Evaluación</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -994,7 +994,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fk-ibb10ba2o</odePageId>
+      <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
       <odeBlockId>block-1776250965896-zkktb15gl</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1023,7 +1023,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fk-ibb10ba2o</odePageId>
+          <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
           <odeBlockId>block-1776250965896-zkktb15gl</odeBlockId>
           <odeIdeviceId>idevice-1776250965894-uq81mu0jk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1059,7 +1059,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fl-dvtky0ktc</odePageId>
+  <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>10. Atención a la diversidad</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -1095,7 +1095,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fl-dvtky0ktc</odePageId>
+      <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
       <odeBlockId>block-1776251222690-o4oor71nv</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1124,7 +1124,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fl-dvtky0ktc</odePageId>
+          <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
           <odeBlockId>block-1776251222690-o4oor71nv</odeBlockId>
           <odeIdeviceId>idevice-1776251222688-x1vf15xxe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1154,7 +1154,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9v82fl-4t2ou7orr</odePageId>
+  <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>11.Créditos</pageName>
   <odeNavStructureOrder>11</odeNavStructureOrder>
@@ -1190,7 +1190,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9v82fl-4t2ou7orr</odePageId>
+      <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
       <odeBlockId>block-1776251359590-b1n8gz4ag</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1219,15 +1219,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9v82fl-4t2ou7orr</odePageId>
+          <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
           <odeBlockId>block-1776251359590-b1n8gz4ag</odeBlockId>
           <odeIdeviceId>idevice-1776251359587-cuwgktuku</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Archivo descargable: <a href="jugamos-al-genero-y-numero-FINAL.elpx" title="PINCHE AQUÍ">jugamos-al-genero-y-numero-FINAL.elpx</a></p>
+<p>Archivo descargable: <a href="{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALFINAL.elpx" title="jugamos-al-genero-y-numero-FINALFINAL.elpx">jugamos-al-genero-y-numero-FINALFINAL.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"jugamos-al-genero-y-numero-FINAL.elpx\" title=\"PINCHE AQUÍ\">jugamos-al-genero-y-numero-FINAL.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALFINAL.elpx\" title=\"jugamos-al-genero-y-numero-FINALFINAL.elpx\">jugamos-al-genero-y-numero-FINALFINAL.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
