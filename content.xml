@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260429112528PZNUSG</value>
+    <value>20260429113107DL8IWT</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260429112528XHAMMZ</value>
+    <value>202604291131073X3LGP</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1345,9 +1345,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Archivo descargable: <a href="jugamos-al-genero-y-numero-FINAL.elpx" title="PINCHE AQUÍ">jugamos-al-genero-y-numero-FINAL.elpx</a></p>
+<p>Archivo descargable: <a href="{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALISIMO.elpx" title="jugamos-al-genero-y-numero-FINALISIMO.elpx">jugamos-al-genero-y-numero-FINALISIMO.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"jugamos-al-genero-y-numero-FINAL.elpx\" title=\"PINCHE AQUÍ\">jugamos-al-genero-y-numero-FINAL.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALISIMO.elpx\" title=\"jugamos-al-genero-y-numero-FINALISIMO.elpx\">jugamos-al-genero-y-numero-FINALISIMO.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
