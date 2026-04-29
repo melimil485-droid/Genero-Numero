@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260422123213MOQQ0F</value>
+    <value>20260429112528PZNUSG</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260422123213MJQ4B8</value>
+    <value>20260429112528XHAMMZ</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776857475558</value>
+    <value>1777454390572</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo9z2ap7-7g4r9lcof</odePageId>
+  <odePageId>page-mojug99s-qwuw1iud6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -131,7 +131,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
+  <odePageId>page-mojug99t-7r3n99bzq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>1.Portada</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -167,7 +167,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
+      <odePageId>page-mojug99t-7r3n99bzq</odePageId>
       <odeBlockId>block-1776247675916-rfd9elzd6</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -196,7 +196,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2ap8-mb7rh45v8</odePageId>
+          <odePageId>page-mojug99t-7r3n99bzq</odePageId>
           <odeBlockId>block-1776247675916-rfd9elzd6</odeBlockId>
           <odeIdeviceId>idevice-1776247675913-4pl9w5uit</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -229,7 +229,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
+  <odePageId>page-mojug99w-2hz9avcnv</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>2. Presentación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -265,7 +265,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
+      <odePageId>page-mojug99w-2hz9avcnv</odePageId>
       <odeBlockId>block-1776248403681-2wkbimgt3</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -294,7 +294,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apa-ijmd3ncga</odePageId>
+          <odePageId>page-mojug99w-2hz9avcnv</odePageId>
           <odeBlockId>block-1776248403681-2wkbimgt3</odeBlockId>
           <odeIdeviceId>idevice-1776248403679-3lttae3is</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -326,7 +326,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
+  <odePageId>page-mojug99x-61usxlo4t</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>3. Producto final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -362,7 +362,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
+      <odePageId>page-mojug99x-61usxlo4t</odePageId>
       <odeBlockId>block-1776249209697-i6f7j9ly4</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -391,7 +391,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apa-sin48ybiz</odePageId>
+          <odePageId>page-mojug99x-61usxlo4t</odePageId>
           <odeBlockId>block-1776249209697-i6f7j9ly4</odeBlockId>
           <odeIdeviceId>idevice-1776249209693-tyt8v471y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -423,7 +423,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
+  <odePageId>page-mojug99y-wnd30z3rc</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>4. Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -459,7 +459,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
+      <odePageId>page-mojug99y-wnd30z3rc</odePageId>
       <odeBlockId>block-1776250421315-94wjatntt</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -488,7 +488,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
+          <odePageId>page-mojug99y-wnd30z3rc</odePageId>
           <odeBlockId>block-1776250421315-94wjatntt</odeBlockId>
           <odeIdeviceId>idevice-1776250421312-sy5v90gv0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -517,7 +517,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
+      <odePageId>page-mojug99y-wnd30z3rc</odePageId>
       <odeBlockId>block-1776250593415-39teccs6y</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -546,7 +546,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apb-n0sh51spv</odePageId>
+          <odePageId>page-mojug99y-wnd30z3rc</odePageId>
           <odeBlockId>block-1776250593415-39teccs6y</odeBlockId>
           <odeIdeviceId>idevice-1776250593412-r6qhbxt0r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -575,7 +575,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apc-wf958xloz</odePageId>
+  <odePageId>page-mojug99z-aix2ey47j</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>5. Recursos alumnado</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -611,7 +611,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apc-wf958xloz</odePageId>
+      <odePageId>page-mojug99z-aix2ey47j</odePageId>
       <odeBlockId>block-1776250762614-e5snunezi</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -640,15 +640,21 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apc-wf958xloz</odePageId>
+          <odePageId>page-mojug99z-aix2ey47j</odePageId>
           <odeBlockId>block-1776250762614-e5snunezi</odeBlockId>
           <odeIdeviceId>idevice-1776250762612-x7rubbum2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Aquí encontrarás los recursos necesarios para realizar el proyecto:</p>
-<p><a href="https://padlet.com/melimil485/recursos-para-aprender-el-g-nero-y-n-mero-de-sustantivos-obscwxfqsye3k3oh" title="">https://padlet.com/melimil485/recursos-para-aprender-el-g-nero-y-n-mero-de-sustantivos-obscwxfqsye3k3oh</a></p>
+<p>-Vídeos de youtube.</p>
+<p>-Juegos interactivos.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/obscwxfqsye3k3oh" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250762612-x7rubbum2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontrarás los recursos necesarios para realizar el proyecto:</p>\n<p><a href=\"https://padlet.com/melimil485/recursos-para-aprender-el-g-nero-y-n-mero-de-sustantivos-obscwxfqsye3k3oh\" title=\"\">https://padlet.com/melimil485/recursos-para-aprender-el-g-nero-y-n-mero-de-sustantivos-obscwxfqsye3k3oh</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250762612-x7rubbum2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí encontrarás los recursos necesarios para realizar el proyecto:</p>\n<p>-Vídeos de youtube.</p>\n<p>-Juegos interactivos.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/obscwxfqsye3k3oh\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -670,7 +676,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
+  <odePageId>page-mojug99z-0ne1gra2o</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>6. Recursos docentes</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -706,7 +712,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
+      <odePageId>page-mojug99z-0ne1gra2o</odePageId>
       <odeBlockId>block-1776250804880-a5pja2c0i</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -735,7 +741,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apc-pr2z2enpj</odePageId>
+          <odePageId>page-mojug99z-0ne1gra2o</odePageId>
           <odeBlockId>block-1776250804880-a5pja2c0i</odeBlockId>
           <odeIdeviceId>idevice-1776250804878-ygdwt8szz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -765,7 +771,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
+  <odePageId>page-mojug9a0-vd8v7z1rp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>7. Uso responsable</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -801,7 +807,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
+      <odePageId>page-mojug9a0-vd8v7z1rp</odePageId>
       <odeBlockId>block-1776250847946-gn12txgor</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -830,7 +836,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apd-6ci7xw9tj</odePageId>
+          <odePageId>page-mojug9a0-vd8v7z1rp</odePageId>
           <odeBlockId>block-1776250847946-gn12txgor</odeBlockId>
           <odeIdeviceId>idevice-1776250847944-hs13mgj89</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -863,7 +869,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
+  <odePageId>page-mojug9a0-0awrd6wir</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>8. Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -899,7 +905,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
+      <odePageId>page-mojug9a0-0awrd6wir</odePageId>
       <odeBlockId>block-1776250918075-gvdaiesbz</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -928,15 +934,77 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2ape-dmcoky5he</odePageId>
+          <odePageId>page-mojug9a0-0awrd6wir</odePageId>
           <odeBlockId>block-1776250918075-gvdaiesbz</odeBlockId>
           <odeIdeviceId>idevice-1776250918073-4m8l6ffs4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Las tareas del proyecto se relacionan con los criterios de evaluación del área de Lengua.</p>
+<p></p>
+<table border="1" style="width: 100.047%; height: 262.4px;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong> TAREA </strong><br /></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>CRITERIO DE EVALUACIÓN</strong></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;"><strong> HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong><br /></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"> Activación de conocimientos previos mediante imágenes y preguntas orales (niño/niña, perro/perros).<br /></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1.2.a. Iniciar de manera acompañada el reconocimiento y en contextos próximos, de algunos prejuicios y estereotipos lingüísticos y culturales muy frecuentes, a partir de modelos dados.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"> Gran grupo<br /></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"> 1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Presentación digital (PowerPoint / Genially)</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Identificación del género (masculino/femenino) mediante tarjetas y actividad interactiva.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">10.1.a. Identificar los usos lingüísticos discriminatorios identificados a partir de la reflexión grupal acompañada sobre los aspectos elementales, verbales, de la comunicación, teniendo en cuenta una perspectiva de género.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Individual / pequeño grupo</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Juego interactivo (Wordwall)</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Identificación del número (singular/plural) a partir de imágenes.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">10.2.a. Identificar, con la planificación y el acompañamiento necesarios, estrategias elementales para la escucha activa y el consenso, iniciándose en la gestión dialogada de conflictos.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Individual</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Actividad digital (LearningApps)</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Clasificación de palabras según género y número en la tabla.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1.1.a. Mostrar interés y respeto por las distintas lenguas y variedades dialectales de su entorno más cercano, reconociendo las lenguas de signos.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Pequeño grupo</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Pizarra digital / Google Slides</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Creación de palabras propias (ej: gato/gata, mesa/mesas) y representación con dibujo.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1.3.a. Iniciarse en el reconocimiento de los rasgos de la modalidad lingüística y de las tradiciones literarias populares andaluzas.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Individual</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Herramienta de dibujo (Paint o similar)</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Actividad interactiva final tipo juego o cuestionario.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">10.2.a. Identificar, con la planificación y el acompañamiento necesarios, estrategias elementales para la escucha activa y el consenso, iniciándose en la gestión dialogada de conflictos.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Individual</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Quiz digital (Kahoot!)</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Puesta en común y corrección colectiva.</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">10.1.a. Identificar los usos lingüísticos discriminatorios identificados a partir de la reflexión grupal acompañada sobre los aspectos elementales, verbales, de la comunicación, teniendo en cuenta una perspectiva de género</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Gran grupo</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">Proyección en pizarra digital</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
 <p><a href="https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing" title="">https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250918073-4m8l6ffs4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las tareas del proyecto se relacionan con los criterios de evaluación del área de Lengua.</p>\n<p><a href=\"https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250918073-4m8l6ffs4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las tareas del proyecto se relacionan con los criterios de evaluación del área de Lengua.</p>\n<p></p>\n<table border=\"1\" style=\"width: 100.047%; height: 262.4px;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong> TAREA </strong><br /></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>CRITERIO DE EVALUACIÓN</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\"><strong> HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong><br /></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"> Activación de conocimientos previos mediante imágenes y preguntas orales (niño/niña, perro/perros).<br /></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1.2.a. Iniciar de manera acompañada el reconocimiento y en contextos próximos, de algunos prejuicios y estereotipos lingüísticos y culturales muy frecuentes, a partir de modelos dados.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"> Gran grupo<br /></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"> 1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Presentación digital (PowerPoint / Genially)</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Identificación del género (masculino/femenino) mediante tarjetas y actividad interactiva.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">10.1.a. Identificar los usos lingüísticos discriminatorios identificados a partir de la reflexión grupal acompañada sobre los aspectos elementales, verbales, de la comunicación, teniendo en cuenta una perspectiva de género.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Individual / pequeño grupo</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Juego interactivo (Wordwall)</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Identificación del número (singular/plural) a partir de imágenes.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">10.2.a. Identificar, con la planificación y el acompañamiento necesarios, estrategias elementales para la escucha activa y el consenso, iniciándose en la gestión dialogada de conflictos.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Individual</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Actividad digital (LearningApps)</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Clasificación de palabras según género y número en la tabla.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1.1.a. Mostrar interés y respeto por las distintas lenguas y variedades dialectales de su entorno más cercano, reconociendo las lenguas de signos.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Pequeño grupo</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Pizarra digital / Google Slides</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Creación de palabras propias (ej: gato/gata, mesa/mesas) y representación con dibujo.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1.3.a. Iniciarse en el reconocimiento de los rasgos de la modalidad lingüística y de las tradiciones literarias populares andaluzas.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Individual</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Herramienta de dibujo (Paint o similar)</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Actividad interactiva final tipo juego o cuestionario.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">10.2.a. Identificar, con la planificación y el acompañamiento necesarios, estrategias elementales para la escucha activa y el consenso, iniciándose en la gestión dialogada de conflictos.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Individual</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Quiz digital (Kahoot!)</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Puesta en común y corrección colectiva.</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">10.1.a. Identificar los usos lingüísticos discriminatorios identificados a partir de la reflexión grupal acompañada sobre los aspectos elementales, verbales, de la comunicación, teniendo en cuenta una perspectiva de género</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Gran grupo</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">Proyección en pizarra digital</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><a href=\"https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1EKLGGumy4-CwKC-E67iP7ajosGOjV6IlnvJavbb1Tew/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -958,7 +1026,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
+  <odePageId>page-mojug9a1-6u9955v1d</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>9. Evaluación</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -994,7 +1062,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
+      <odePageId>page-mojug9a1-6u9955v1d</odePageId>
       <odeBlockId>block-1776250965896-zkktb15gl</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1023,7 +1091,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2ape-kziqc71c5</odePageId>
+          <odePageId>page-mojug9a1-6u9955v1d</odePageId>
           <odeBlockId>block-1776250965896-zkktb15gl</odeBlockId>
           <odeIdeviceId>idevice-1776250965894-uq81mu0jk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1035,9 +1103,54 @@
 <li>Diana de autoevaluación</li>
 </ul>
 <p>La evaluación se basa en los criterios de evaluación establecidos en la normativa y se realiza mediante la triangulación de diferentes instrumentos.</p>
+<p><strong>RÚBRICA DE EVALUACIÓN.</strong></p>
+<table border="1" style="width: 100.047%; height: 220.8px;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 24.9645%; text-align: center; height: 32.8px;"><strong>INDICADORES</strong></td>
+<td style="width: 24.9645%; text-align: center; height: 32.8px;"><strong>INICIADO</strong></td>
+<td style="width: 24.9645%; text-align: center; height: 32.8px;"><strong>EN PROCESO</strong></td>
+<td style="width: 24.9645%; text-align: center; height: 32.8px;"><strong>CONSEGUIDO</strong></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Reconoce el género<br /></td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">No lo reconoce</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Reconoce con ayuda</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Lo reconoce correctamente</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Identifica singular y plural</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">No lo identifica</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Identifica algunos</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Identifica correctamente</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Clasifica palabras</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">No clasifica</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Clasifica con ayuda</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Clasifica correctamente</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Participación</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">No participa</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Participa ocasionalmente</td>
+<td style="width: 24.9645%; height: 32.8px; text-align: center;">Participa activamente</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 24.9645%; height: 56.8px; text-align: center;">Uso de herramientas digitales</td>
+<td style="width: 24.9645%; height: 56.8px; text-align: center;">No las utiliza</td>
+<td style="width: 24.9645%; height: 56.8px; text-align: center;">Las usa con ayuda</td>
+<td style="width: 24.9645%; height: 56.8px; text-align: center;">Las usa de forma autónoma</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
 <p><a href="https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing" title="">https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing</a></p>
+<p><strong>DIANA DE AUTOEVALUACIÓN.</strong></p>
+<p><img src="{{context_path}}/content/resources/ChatGPT Image 29 abr 2026, 10_45_26.png" width="1536" height="1024" alt="" /><br /></p>
+<p>Imagen creada por IA</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250965894-uq81mu0jk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se realizará mediante diferentes instrumentos:</p>\n<ul>\n<li>Rúbrica del producto final</li>\n<li>Observación directa</li>\n<li>Diana de autoevaluación</li>\n</ul>\n<p>La evaluación se basa en los criterios de evaluación establecidos en la normativa y se realiza mediante la triangulación de diferentes instrumentos.</p>\n<p><a href=\"https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776250965894-uq81mu0jk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se realizará mediante diferentes instrumentos:</p>\n<ul>\n<li>Rúbrica del producto final</li>\n<li>Observación directa</li>\n<li>Diana de autoevaluación</li>\n</ul>\n<p>La evaluación se basa en los criterios de evaluación establecidos en la normativa y se realiza mediante la triangulación de diferentes instrumentos.</p>\n<p><strong>RÚBRICA DE EVALUACIÓN.</strong></p>\n<table border=\"1\" style=\"width: 100.047%; height: 220.8px;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9645%; text-align: center; height: 32.8px;\"><strong>INDICADORES</strong></td>\n<td style=\"width: 24.9645%; text-align: center; height: 32.8px;\"><strong>INICIADO</strong></td>\n<td style=\"width: 24.9645%; text-align: center; height: 32.8px;\"><strong>EN PROCESO</strong></td>\n<td style=\"width: 24.9645%; text-align: center; height: 32.8px;\"><strong>CONSEGUIDO</strong></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Reconoce el género<br /></td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">No lo reconoce</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Reconoce con ayuda</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Lo reconoce correctamente</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Identifica singular y plural</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">No lo identifica</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Identifica algunos</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Identifica correctamente</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Clasifica palabras</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">No clasifica</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Clasifica con ayuda</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Clasifica correctamente</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Participación</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">No participa</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Participa ocasionalmente</td>\n<td style=\"width: 24.9645%; height: 32.8px; text-align: center;\">Participa activamente</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 24.9645%; height: 56.8px; text-align: center;\">Uso de herramientas digitales</td>\n<td style=\"width: 24.9645%; height: 56.8px; text-align: center;\">No las utiliza</td>\n<td style=\"width: 24.9645%; height: 56.8px; text-align: center;\">Las usa con ayuda</td>\n<td style=\"width: 24.9645%; height: 56.8px; text-align: center;\">Las usa de forma autónoma</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><a href=\"https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1mkOHrMtMoiGmCTIr0dS54Cnlut9STE_RrB3Gh6nDIcA/edit?usp=sharing</a></p>\n<p><strong>DIANA DE AUTOEVALUACIÓN.</strong></p>\n<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 29 abr 2026, 10_45_26.png\" width=\"1536\" height=\"1024\" alt=\"\" /><br /></p>\n<p>Imagen creada por IA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1059,7 +1172,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
+  <odePageId>page-mojug9a1-5h5hl1hqv</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>10. Atención a la diversidad</pageName>
   <odeNavStructureOrder>10</odeNavStructureOrder>
@@ -1095,7 +1208,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
+      <odePageId>page-mojug9a1-5h5hl1hqv</odePageId>
       <odeBlockId>block-1776251222690-o4oor71nv</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1124,15 +1237,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apf-fkv1ze97z</odePageId>
+          <odePageId>page-mojug9a1-5h5hl1hqv</odePageId>
           <odeBlockId>block-1776251222690-o4oor71nv</odeBlockId>
           <odeIdeviceId>idevice-1776251222688-x1vf15xxe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Se plantean actividades variadas, uso de recursos visuales y trabajo cooperativo para atender a la diversidad del alumnado.</p>
 <p>Se ofrecerá apoyo individualizado cuando sea necesario.</p>
+<p>Algunos recursos que se utilizarán:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/YB_6Q8UJa4o?si=SjRsUJA9PsNj-P9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/b7e6933b783143158cca1d59f6197d0c?themeId=1&amp;templateId=5&amp;fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/es/embed/b8d6eed3d26748e3a4272851dfc24453?themeId=1&amp;templateId=36&amp;fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<pre><code></code></pre>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251222688-x1vf15xxe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantean actividades variadas, uso de recursos visuales y trabajo cooperativo para atender a la diversidad del alumnado.</p>\n<p>Se ofrecerá apoyo individualizado cuando sea necesario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251222688-x1vf15xxe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantean actividades variadas, uso de recursos visuales y trabajo cooperativo para atender a la diversidad del alumnado.</p>\n<p>Se ofrecerá apoyo individualizado cuando sea necesario.</p>\n<p>Algunos recursos que se utilizarán:</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YB_6Q8UJa4o?si=SjRsUJA9PsNj-P9H\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/b7e6933b783143158cca1d59f6197d0c?themeId=1&amp;templateId=5&amp;fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/es/embed/b8d6eed3d26748e3a4272851dfc24453?themeId=1&amp;templateId=36&amp;fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>\n<pre><code></code></pre>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1154,7 +1274,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
+  <odePageId>page-mojug9a1-cbmabodrp</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>11.Créditos</pageName>
   <odeNavStructureOrder>11</odeNavStructureOrder>
@@ -1190,7 +1310,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
+      <odePageId>page-mojug9a1-cbmabodrp</odePageId>
       <odeBlockId>block-1776251359590-b1n8gz4ag</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1219,15 +1339,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z2apf-i5xrt5w6r</odePageId>
+          <odePageId>page-mojug9a1-cbmabodrp</odePageId>
           <odeBlockId>block-1776251359590-b1n8gz4ag</odeBlockId>
           <odeIdeviceId>idevice-1776251359587-cuwgktuku</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>
-<p>Archivo descargable: <a href="{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALFINAL.elpx" title="jugamos-al-genero-y-numero-FINALFINAL.elpx">jugamos-al-genero-y-numero-FINALFINAL.elpx</a></p>
+<p>Archivo descargable: <a href="jugamos-al-genero-y-numero-FINAL.elpx" title="PINCHE AQUÍ">jugamos-al-genero-y-numero-FINAL.elpx</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"{{context_path}}/content/resources/jugamos-al-genero-y-numero-FINALFINAL.elpx\" title=\"jugamos-al-genero-y-numero-FINALFINAL.elpx\">jugamos-al-genero-y-numero-FINALFINAL.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776251359587-cuwgktuku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Inmaculada Elías Millán<br />Descripción: Situación de aprendizaje sobre el género y número de las palabras.<br />Licencia: Uso educativo<br />Recursos: Imágenes libres de uso (Pixabay, Canva)</p>\n<p>Archivo descargable: <a href=\"jugamos-al-genero-y-numero-FINAL.elpx\" title=\"PINCHE AQUÍ\">jugamos-al-genero-y-numero-FINAL.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
